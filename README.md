@@ -1,5 +1,5 @@
 # android app
-projekt y premdetu VMA
+projekt z predmetu VMA
 
 Aplikácia pre Android v jazyku Java, ktorá používa openweathermap weather api na určenie údajov o počasí v rôznych mestách po celom svete.
 
