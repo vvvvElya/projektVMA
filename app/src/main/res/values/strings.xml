@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Viewer</string>
+    <string name="textINapp">Weather in your town</string>
+    <string name="textINput">enter town name</string>
+    <string name="text_button">search</string>
+    <string name="text_result">Weather:</string>
+    <string name="MainText">Enter town name!)</string>
+    <string name="SystemText">version 1.0.0</string>
+    <string name="hintText">Attention! the data provided may be inaccurate.</string>
+</resources>
