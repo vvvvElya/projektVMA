@@ -1,7 +1,13 @@
-# Weather-viewer-android-app-
-Андроид приложение на Java использующее погодное api openwathermap для определения погодных данных в разных городах мира.
-Приложение использует api ключ openweathermap. Вы можете получить его сами зарегистрировав аккаунт на сайте сервиса.
+# android app
+projekt y premdetu VMA
+
+Aplikácia pre Android v jazyku Java, ktorá používa openweathermap weather api na určenie údajov o počasí v rôznych mestách po celom svete.
+
+
+Aplikácia používa API kľúč openweathermap api. Da sa ho získať  registráciou účtu na webovej stránke služby.
+
 
 ![](AppScreenshot/screenshotApp.png)
 
-Функционал и интерфейс приложения представлен на этом фото.
+
+Funkčnosť a rozhranie aplikácie
